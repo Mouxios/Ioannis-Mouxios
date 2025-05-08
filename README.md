@@ -1,1 +1,1 @@
-# Ioannis-Mouxios
+# Hello, I'm Ioannis-Mouxios! As a recent graduate of T.E.I. of Thessaly in computer science and engineering. My thesis focused on expert systems and artificial intelligence and I’m currently attending a seminar to obtain a Data Analyst certification from Workearly(will be completed in June 2025).
